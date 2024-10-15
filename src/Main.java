@@ -3,6 +3,10 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Bao an cut ga, Bao ia ko ra");
+        System.out.println("Hung ia ko ra");
+        System.out.println("Hung ia ko ra");
+        System.out.println("Hung ia ko ra");
+        System.out.println("Hung ia ko ra");
         System.out.println("Bao eat chicken shit, Bao poops so hard");
     }
 }
