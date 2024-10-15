@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Hung ia ko ra");
         System.out.println("Hung ia ko ra");
         System.out.println("Hung ia ko ra");
-
+        System.out.println("Bao eat chicken shit, Bao poops so hard");
     }
 }
