@@ -1,5 +1,6 @@
 public class Chicken {
     private String name;
+
     private int age;
 
     public Chicken(String name, int age) {
