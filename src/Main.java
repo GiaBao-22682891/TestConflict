@@ -8,9 +8,8 @@ public class Main {
         System.out.println("Bao eat chicken shit, Bao poops so hard");
         System.out.println("Hung eat chicken shit, Hung poops so hard ");
 
-        Object chick = new Chicken("hello", 1);
-        System.out.println(chick);;
+        Chicken chicken = new Chicken("Bao ga", 21);
 
-
+        System.out.println(chicken);
     }
 }
