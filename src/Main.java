@@ -11,5 +11,7 @@ public class Main {
         Chicken chicken = new Chicken("Bao ga", 21);
 
         System.out.println(chicken);
+
+        System.out.println("this is for my safety");
     }
 }
