@@ -14,7 +14,6 @@ public class Main {
 
         System.out.println("don't you worry");
         System.out.println("test 1 calling");
-        System.out.println("hello main");
-        System.out.println("this is b1");
+
     }
 }
