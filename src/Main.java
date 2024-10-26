@@ -12,6 +12,6 @@ public class Main {
 
         System.out.println(chicken);
 
-        System.out.println("this is for my safety");
+        System.out.println("test 1 calling");
     }
 }
