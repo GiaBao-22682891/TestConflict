@@ -12,5 +12,6 @@ public class Main {
 
         System.out.println(chicken);
         System.out.println("hello main");
+        System.out.println("hello b1");
     }
 }
